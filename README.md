@@ -5,9 +5,18 @@
 - Delete null
 - Replace as mean
 
-## ML Algorithms Options
+## Data Visualization
+- KDE plot (Seaborn)
+- 
+
+## ML Algorithms Options (Scikit-Learn)
 - Cart
 - Knn
 - Random Forest
 - Logistic
 - SVM
+
+## Result Visualization
+- ROC Curve
+- Confusion Matrix
+- HeatMap
